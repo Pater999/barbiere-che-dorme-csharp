@@ -1,0 +1,11 @@
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\bin\Debug\BarbiereCheDorme.exe.config
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\bin\Debug\BarbiereCheDorme.exe
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\bin\Debug\BarbiereCheDorme.pdb
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.Properties.Resources.resources
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.csproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.exe
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.pdb
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.BarbiereForm.resources
+C:\Users\Utente\Desktop\BarbiereCheDorme\BarbiereCheDorme\BarbiereCheDorme\obj\Debug\BarbiereCheDorme.NomiClientiForm.resources
